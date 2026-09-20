@@ -7,7 +7,7 @@ import streamlit as st
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="SmartCart | Customer Intelligence",
+    page_title="Shopora AI | Customer Intelligence",
     page_icon="🛒",
     layout="wide",
     initial_sidebar_state="expanded",
